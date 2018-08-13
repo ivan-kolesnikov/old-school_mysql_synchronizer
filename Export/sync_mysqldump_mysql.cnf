@@ -1,0 +1,10 @@
+[DATA BASE]
+user = user
+host = 127.0.0.1
+password = password
+database = database
+[REMOTE SERVER]
+user_rs = user_rs
+host_rs = 217.0.0.2
+password_rs = password_rs
+dir_rs = /opt/oldschool_mysql_synchronizer/import
